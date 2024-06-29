@@ -1,0 +1,2 @@
+# Redirect default netlify subdomain to primary domain
+https://budi-card.netlify.app/* https://card.budi.day/:splat 301!
